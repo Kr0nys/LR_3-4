@@ -1,4 +1,4 @@
-﻿Program Zad16;
+﻿Program Zad15;
 var n,sum,mult: integer;
 
 begin
